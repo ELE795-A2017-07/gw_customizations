@@ -36,7 +36,7 @@
 			"script":"python CloudThingSpeak.py",
 			"type":"iotcloud",			
 			"write_key":"",
-			"enabled":true
+			"enabled":false
 		},
 		{	
 			"name":"GroveStreams cloud",
