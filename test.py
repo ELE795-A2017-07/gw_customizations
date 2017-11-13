@@ -10,4 +10,4 @@ def main(ldata, pdata, rdata, tdata, gwid):
 	print('gwid: {}'.format(gwid))
 
 if __name__ == '__main__':
-	main(*sys.argv)
+	main(*sys.argv[1:])
