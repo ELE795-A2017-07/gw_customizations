@@ -62,7 +62,18 @@
 			"folder":"",			
 			"write_key":"",
 			"enabled":false
-		}				
+		},
+		{
+			"name":"dioo test",
+			"script":"python3 /home/pi/custom/test.py",
+			"type":"yo mama",
+			"server":"",
+			"login":"",
+			"password":"",
+			"folder":"",			
+			"write_key":"",
+			"enabled":true
+		}
 	],
 	"encrypted_clouds" : [
 		{
